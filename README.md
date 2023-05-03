@@ -1,5 +1,5 @@
 # HtmlBasics
-This repository contains the HTML assignment-1 prepared for internship assignment in Leapfrog Technology.
+This repository contains the HTML assignment prepared during internship at Leapfrog Technology.
 
 ---------------------------------------------------------------------------------------- 
 
